@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66df83146d0d328415dce0d8c582074a",
+    "revision": "6fda3a791efeaff84c3b40a446a1b12b",
     "url": "/monsters-rolodex/index.html"
   },
   {
